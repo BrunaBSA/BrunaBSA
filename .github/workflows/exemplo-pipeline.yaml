@@ -1,0 +1,15 @@
+name: exemplo
+
+on: 
+  workflow_dispatch:  
+
+  push:
+    branches:
+      -main
+
+jobs: 
+  hello:
+    runs-on: windows-latest
+    steps:
+      -name: mostrar-mensagem
+        run: echo "hello desenv"
