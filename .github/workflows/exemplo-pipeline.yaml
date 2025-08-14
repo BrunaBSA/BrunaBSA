@@ -11,5 +11,5 @@ jobs:
   hello:
     runs-on: windows-latest
     steps:
-      -name: mostrar-mensagem
+      - name: mostrar-mensagem
         run: echo "hello desenv"
