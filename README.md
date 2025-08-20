@@ -1,6 +1,20 @@
 ## Hi there 👋
 
+<table border="0px">
+  <tr>
+    <td valign="top" width="50%">
+      
+- 👋 Hi, I’m @BrunaBSA  
+- 👀 I’m interested in ...  
+- 🌱 I’m currently learning ...  
+- 💞️ I’m looking to collaborate on ...  
+- 📫 How to reach me ...  
+- 😄 Pronouns: ...  
+- ⚡ Fun fact: ...  
 
+    </td>
+  </tr>
+</table>
 
 
 
